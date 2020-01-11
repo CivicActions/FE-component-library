@@ -20,8 +20,9 @@
   "dependencies": {
     "@pattern-lab/cli": "^5.4.0",
     "@pattern-lab/core": "^5.4.0",
-    "@pattern-lab/engine-twig-php": "^5.4.0",
-    "@pattern-lab/uikit-workshop": "^5.4.2"
+    "@pattern-lab/engine-twig-php": "^5.5.0",
+    "@pattern-lab/starterkit-twig-demo": "^5.0.0",
+    "@pattern-lab/uikit-workshop": "^5.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.7.3",

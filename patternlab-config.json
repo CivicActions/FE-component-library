@@ -89,9 +89,9 @@
   "starterkitSubDir": "dist",
   "styleGuideExcludes": [],
   "theme": {
-    "color": "light",
+    "color": "dark",
     "density": "compact",
-    "layout": "horizontal",
+    "layout": "sidebar",
     "noViewAll": false
   },
   "uikits": [
